@@ -1,2 +1,2 @@
 # bugGrid
-Example of bug between grid and split layout in chorme and Safari.
+Example of bug between grid and split layout in chrome and Safari.
